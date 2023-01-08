@@ -1,0 +1,187 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.parent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.col {
+    width: 50%;
+    padding: 50px;
+    font-weight: 700;
+    font-size: 40px;
+    align-items: center;
+
+}
+
+.text-content {
+    text-align: right;
+}
+
+.header {
+    background-image: url(../images/banner/banner1.png);
+    height: 1200px;
+    text-align: center;
+    text-align: right;
+    background-repeat: no-repeat;
+    margin-bottom: 130px;
+
+}
+
+.header-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: grey;
+}
+
+.btn-primary {
+    background: #F15B22;
+    color: white;
+    border-color: #F15B22;
+    border-radius: 5px;
+    margin-top: 30px;
+    padding: 20px 40px;
+
+}
+
+.info {
+    display: flex;
+
+
+}
+
+.info-photo {
+
+    width: 569px;
+    height: 723.3px;
+    left: 206px;
+    top: 939px;
+    margin-right: 90px;
+
+}
+
+.info-title {
+    padding-bottom: 30px;
+    font-weight: 700;
+    font-size: 40px;
+    text-align: start;
+    width: 416px;
+    height: 400px;
+    left: 862px;
+    top: 1178px;
+
+}
+
+.info-pera {
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 20px;
+
+}
+
+/* my plans */
+.plan-big {
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.plan {
+    margin: 90px;
+}
+
+.plan-container {
+    display: flex;
+
+
+}
+
+.plan-title {
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.plan-description {
+    color: #737272;
+    font-weight: 500;
+    font-size: 25px;
+}
+
+/* ending stles */
+.ending-photo {
+    background-image: url(../images/watch.png);
+    background-blend-mode: darkeno;
+    width: 1140px;
+    height: 300px;
+    left: 230px;
+    top: 2221.96px;
+    margin-top: 150px;
+    margin-left: 120px;
+    margin-bottom: 90px;
+
+}
+
+
+.ending-heading {
+    padding: 20px;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.ending-call {
+    padding: 12px 10px;
+    margin-left: 20px;
+    background-color: white;
+    color: #005FAC;
+
+}
+
+/* last section */
+
+.last-section {
+    margin: 10px;
+    text-align: justify;
+    display: flex;
+    background-color: black;
+    color: aliceblue;
+    padding: 10%;
+
+
+}
+
+.last-heading {
+    margin-bottom: 20px;
+}
+
+.last-input {
+    margin-top: 25px;
+    padding: 10px 15px;
+    background-color: skyblue;
+}
+
+.last-p-1 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.last-p-2 {
+    margin-bottom: 10px;
+}
+
+.last-title {
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 16px;
+
+}
+
+.last-icons {
+    margin-top: 30px;
+
+}
